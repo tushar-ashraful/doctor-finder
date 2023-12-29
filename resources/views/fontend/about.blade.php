@@ -29,7 +29,7 @@
                         <div class="col-lg-4 col-md-6 category-col d-flex">
                             <div class="category-subox pb-0 d-flex flex-wrap w-100">
                                 <h4>Visit a Doctor</h4>
-                                <p>We hire the best specialists to deliver top-notch diagnostic services for you.</p>
+                                <p>We hire the best specialists in medical field to deliver top-notch diagnostic services for you.</p>
                                 <div class="subox-img">
                                     <div class="subox-circle">
                                         <img src="{{ asset('contents/fontend') }}/assets/img/icons/vect-01.png" alt="" width="42">
@@ -40,7 +40,7 @@
                         <div class="col-lg-4 col-md-6 category-col d-flex">
                             <div class="category-subox pb-0 d-flex flex-wrap w-100">
                                 <h4>Find a Pharmacy</h4>
-                                <p>We provide the a wide range of medical services, so every person could have the opportunity.</p>
+                                <p>We provide the a wide range of medical services, so every person could have the opportunity to have this.</p>
                                 <div class="subox-img">
                                     <div class="subox-circle">
                                         <img src="{{ asset('contents/fontend') }}/assets/img/icons/vect-02.png" alt="" width="42">
